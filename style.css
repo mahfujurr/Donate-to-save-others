@@ -181,3 +181,20 @@ h3{
     border-radius: 10px;
 
 }
+.footer{
+    background-color: rgb(19, 19, 19);
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+#footer-paragraph{
+    color: white;
+}
+#footer-heading{
+    color: red;
+    font-style: italic;
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+
+}
