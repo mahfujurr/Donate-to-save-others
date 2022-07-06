@@ -63,3 +63,18 @@ h2{
     font-weight: 1000;
     
 }
+#custom-ammount{
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+    padding: 0px 170px 2px 290px;
+    margin-left: 22%;
+    border-color: rgba(0, 0, 0, 0.26);
+    font-size: 25px;
+}
+#second-donate-link{
+    color: rgba(0, 0, 0, 0.103);
+}
+.donate-button{
+    margin: 50px;
+}
